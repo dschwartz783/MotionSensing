@@ -41,7 +41,6 @@ while True:
         else:
             num_infamiliar -= 1
         if num_infamiliar >= 90:
-            print "\a"
             print "odd: " + str(i)
             num_infamiliar = 0
         frame1 = frame2
