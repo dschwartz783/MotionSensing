@@ -1,2 +1,2 @@
 # MotionSensing
-Motion Sensing with NuPIC
+This script uses the input of an IP camera to sense changes to its environment. Not necessarily just motion, but also changes in lighting. It isn't meant to be some sort of amazing script that works flawlessly, but I'm hoping to tweak it to the point where it works well. It isn't quite there yet...
